@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanisha</h1>
 <h3 align="center">Aspiring developer with a passion for learning.</h3>
 
-- 🔭 I’m currently working on [a personal advertise website](Coming Soon)
+- 🔭 I’m currently working on [A personal advertise website](Coming Soon)
 
 - 🌱 I’m currently learning **Git & GitHub basics and improving my programming fundamentals.**
 
